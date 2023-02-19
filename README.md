@@ -87,7 +87,10 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-## Good Game Pillars
+## Game Pillar Examples
+
+Pokemon:
+[![VideoPokemon](https://img.youtube.com/vi/5Ou0gvkJ_5s&t=1s&ab_channel=Cartroner/0.jpg)](https://www.youtube.com/watch?v=5Ou0gvkJ_5s&t=1s&ab_channel=Cartroner)
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
