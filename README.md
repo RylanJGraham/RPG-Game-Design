@@ -266,6 +266,8 @@ Fun games have:
 
 *Raf Costa's: A Theory of Fun*
 
+In his book Costa outlines the essentials for having a fun and addictive game. These are inherent things in human psychology that cause them to become interested and addicted. These range from concepts such as human need for competition, human necessity for mastering patterns, and more. Below are some examples of these characteristics and possibilities for Game Pillars: 
+
 <img src="images/6.png" alt="6" width="1000" height="400">
 
 
