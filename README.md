@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## What Are Game Pillars?
 
-<img src="images/fundamentals.png" alt="Logo" width="80" height="80">
+<img src="images/fundamentals.png" alt="Logo" width="500" height="200">
 
 My name is Rylan Graham and I am a second year bachelors student in the Universitat Politecnica de Catalunya. This website is built for information regarding a lecture I delivered about RPG Game Design, or more specifically, the crucial Game Pillars for development. 
 
