@@ -83,19 +83,29 @@ This section should list any major frameworks/libraries used to bootstrap your p
 *Market Systems are a form of transaction or trading within the game. Players can trade in-game elements with one another and there is a value system*
 
 - [x] Inventory 
+
+*Players can store items that they collect throughout the game. Players inventories are customizable and personalized.*
+
 - [ ] Visuals
+
+*Players can become fully immersed through impressive or realistic visuals. This can also be through abstract art styles or musical elements.*
+
 - [x] Exploration
+
+*Players can roam the map, and exercise free will on where they move. This adds a level of immersion.*
+
 - [ ] Unique Mechanics
+
+*Some titles feature unique mechanics in regards to physics, combat, movement, and more. These are most popular nowadays as most typical concepts have been exhausted.* 
+
 - [x] Competetive Elements
 
-These are some common elements that are included in RPG Games. 
+*Players can fight one another, computer ai, or other in-game elements. 
 
 **Market Systems** 
 
 *Market Systems are a form of transaction or trading within the game. Players can trade in-game elements with one another and there is a value system*
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ## Game Pillar Industry Examples
 
@@ -132,7 +142,6 @@ Final Fantasy has a turn-based combat system, a perfect model for RPG's. Players
 Final Fantasy has an immersive story that players can dive into. Spanning multiple titles, with hundreds of characters, players can investigate and develop characters story lines. This adds a level of immersion that is essential for Game Pillars. Players are able to establish emotional connections, impacting them even after the game has been exited. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## Good Game Pillars
