@@ -238,7 +238,8 @@ In order to begin the process of selecting game pillars for the RPG title, team 
 
 Once these requirements have been met, its time to move onto the next step. 
 
-
+-
+-
 
 
 **Step 2. Audience Recognition & Catering**
@@ -247,7 +248,8 @@ Once these requirements have been met, its time to move onto the next step.
 
 Recognizing your target audience is essential for understanding the required game pillars. The target audience can give an indication to required pillars based on their characteristics. Example being a sports lover may be more lenient towards competetive game pillars, or customization elements. Additionally the age can indicate societal trends in interest.  
 
-
+-
+-
 
 
 **Step 3. Ensuring Fun Game Pillars**
