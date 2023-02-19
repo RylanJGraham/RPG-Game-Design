@@ -37,11 +37,15 @@
 </details>
 
 <!-- CONTACT -->
-## Google Slides Presentation
+## Lecture Information
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Slides Presentation with Media: [Link](https://docs.google.com/presentation/d/1KGYc0Du5xmiiQnFxYBg2Zi05I5WyUEsoRJjs1ZFF4WI/edit?usp=sharing)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+By: Rylan James Graham - [Portfolio](https://rylanjgraham.com)
+
+Project Link: [https://github.com/RylanJGraham/RPG-Game-Design](https://github.com/RylanJGraham/RPG-Game-Design)
+
+CITM UPC Bachelors Student: [UPC CITM](https://www.citm.upc.edu/esp/estudis/grau-multimedia/utm_source=5745_multi&utm_medium=cpc&utm_campaign=multi_grau_esp&gclid=Cj0KCQiArsefBhCbARIsAP98hXT3ORoNB4hguls4CuEXaGSo6JDTlwTmVAv4ncjZ5ZNy8Wc95GxO_jMaAiZjEALw_wcB)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -50,28 +54,23 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 My name is Rylan Graham and I am a second year bachelors student in the Universitat Politecnica de Catalunya. This website is built for information regarding a lecture I delivered about RPG Game Design, or more specifically, the crucial Game Pillars for development. 
 
-“What I mean by this term is think about the 3 – 5 main elements/emotions your game is trying to explore and make the players feel” - Max Pears. [Source](https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### What Are Game Pillars?
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+“What I mean by this term is think about the 3 – 5 main elements/emotions your game is trying to explore and make the players feel” - Max Pears. [Source](https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game)
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+**Game Pillars in Essence**
+
+*A game pillar is a fundamental concept that your game will utilize to function
+
+*Game pillars can vary from mechanics, aesthetics, story, and technology Source
+
+*Game pillars should relate to one another, and should not just be stand alone concepts. 
+
+*Aim for 3-8 concepts for game pillars, however only 3 are essential. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Game Pillar Types
@@ -154,9 +153,7 @@ Final Fantasy has an immersive story that players can dive into. Spanning multip
 
 ## Good Game Pillars
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+<img src="images/GoodPillars.png" alt="Plot" width="700" height="400">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +161,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Bad Game Pillars
 
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+<img src="images/BadPillars.png" alt="Plot" width="700" height="400">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
