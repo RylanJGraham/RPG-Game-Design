@@ -62,6 +62,8 @@ My name is Rylan Graham and I am a second year bachelors student in the Universi
 
 **Game Pillars in Essence**
 
+<img src="images/Graphic1.png" alt="Plot" width="600" height="800">
+
 *A game pillar is a fundamental concept that your game will utilize to function
 
 *Game pillars can vary from mechanics, aesthetics, story, and technology Source
