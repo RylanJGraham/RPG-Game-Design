@@ -9,8 +9,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <div align="left">
+<div align="left">
    <summary>Table of Contents</summary>
     <ol>
     <li>
