@@ -89,8 +89,12 @@ This is an example of how to list things you need to use the software and how to
 
 ## Game Pillar Examples
 
-Pokemon:
+### Pokemon
+
+Pokemon is a game franchise founded by Nintendo, Game Freak, and Creatures. It was created by Satoshi Tajiri in 1996. The franchise is one of the best selling RPG titles of all time, beginning as Pokemon Red & Blue, and since evolving to include several other titles spanning various consoles, Tv series, Movies, Trading Cards, Apps, & more. However, what Game Pillars make Pokemon such a successful title? The video below seeks to explore that. 
+
 [<img src="https://i.ytimg.com/vi/5Ou0gvkJ_5s/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=5Ou0gvkJ_5s&t=3s&ab_channel=Cartroner)
+
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at [https://example.com](https://example.com)
