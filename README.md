@@ -19,7 +19,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#What Are Game Pillars?">About The Project</a>
+      <a href="#What Are Game Pillars?">What Are Game Pillars?</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -43,7 +43,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## What Are Game Pillars?
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
