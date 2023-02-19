@@ -62,7 +62,7 @@ My name is Rylan Graham and I am a second year bachelors student in the Universi
 
 **Game Pillars in Essence**
 
-<img src="images/Graphic1.png" alt="Plot" width="600" height="800">
+<img src="images/Graphic1.png" alt="Plot" width="400" height="600">
 
 *A game pillar is a fundamental concept that your game will utilize to function
 
