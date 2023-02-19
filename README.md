@@ -286,6 +286,12 @@ Game elements (Items, Abilities, etc) must fit into the games theme and work wit
 
 **Step 5. Guiding and Freeing the Player**
 
+<img src="images/Timeline.png" alt="Plot" width="1000" height="400">
+
+*How The Professionals Do It:*
+
+[<img src="https://i.ytimg.com/vi/dBmIkEvEBtA/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=dBmIkEvEBtA&ab_channel=GameMaker%27sToolkit)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
