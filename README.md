@@ -292,6 +292,9 @@ Game elements (Items, Abilities, etc) must fit into the games theme and work wit
 
 [<img src="https://i.ytimg.com/vi/dBmIkEvEBtA/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=dBmIkEvEBtA&ab_channel=GameMaker%27sToolkit)
 
+**How Your Project Flow Should Be**
+
+<img src="images/projflow.png" alt="Plot" width="1000" height="400">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
