@@ -238,6 +238,9 @@ In order to begin the process of selecting game pillars for the RPG title, team 
 
 Once these requirements have been met, its time to move onto the next step. 
 
+-
+-
+
 
 **Step 2. Audience Recognition & Catering**
 
@@ -245,7 +248,24 @@ Once these requirements have been met, its time to move onto the next step.
 
 Recognizing your target audience is essential for understanding the required game pillars. The target audience can give an indication to required pillars based on their characteristics. Example being a sports lover may be more lenient towards competetive game pillars, or customization elements. Additionally the age can indicate societal trends in interest.  
 
+-
+-
+
+
+**Step 3. Ensuring Fun Game Pillars**
+
+[<img src="https://i.ytimg.com/vi/lkatr_a1OMQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=lkatr_a1OMQ&ab_channel=MyGameDevPal)
+
+<img src="images/FunGames.png" alt="Games" width="1000" height="400">
+
+Fun games have: 
+
+- Patterns: Pattern for the player to learn and improve, with gradual mechanics added
+- Interest: Games elements are focused on players interest.
+- No Cheating: Games patterns can not be bypassed, player must learn and develop skills
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- LICENSE -->
