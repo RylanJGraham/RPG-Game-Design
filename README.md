@@ -96,9 +96,11 @@ Pokemon is a game franchise founded by Nintendo, Game Freak, and Creatures. It w
 [<img src="https://i.ytimg.com/vi/5Ou0gvkJ_5s/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=5Ou0gvkJ_5s&t=3s&ab_channel=Cartroner)
 
 **Game Pillar #1: Choice**
+
 Pokemon allows their users to choose among several elements, whether it be their pokemon, exploration area, items etc. The player feels as though the gaming experience is truly customized to them, thus allowing them to add their personality into the game. This is an essential phenomena for a Game Pillar to provide: self-expression. 
 
 **Game Pillar #2: Combat**
+
 Pokemon allows their players to compete with in-game AI, whether it be Pokemon, trainers, or fellow players online. Players can enjoy competition and comparison with others. This is an essential factor, as we as human beings are based on comparison and competition, from a primative standpoint.  
 
 
