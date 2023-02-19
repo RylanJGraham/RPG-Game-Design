@@ -154,9 +154,7 @@ Final Fantasy has an immersive story that players can dive into. Spanning multip
 
 ## Good Game Pillars
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+<img src="images/GoodPillars.png" alt="Plot" width="700" height="400">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +162,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Bad Game Pillars
 
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+<img src="images/BadPillars.png" alt="Plot" width="700" height="400">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
