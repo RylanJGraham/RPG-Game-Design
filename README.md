@@ -103,6 +103,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 *Players can fight one another, computer ai, or other in-game elements. 
 
 **RPG Pillar Reliance**
+
 To be a good RPG there is often a reliance on these three pillars existing (even in a small manner) together in harmony. These are all good starting points for our own RPG’s, only we need to specify. 
 
 <img src="images/plot.png" alt="Plot" width="1000" height="400">
