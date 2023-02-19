@@ -118,6 +118,8 @@ To be a good RPG there is often a reliance on these three pillars existing (even
 
 ### Pokemon
 
+<img src="images/pokemonImg.png" alt="Plot" width="1000" height="400">
+
 Pokemon is a game franchise founded by Nintendo, Game Freak, and Creatures. It was created by Satoshi Tajiri in 1996. The franchise is one of the best selling RPG titles of all time, beginning as Pokemon Red & Blue, and since evolving to include several other titles spanning various consoles, Tv series, Movies, Trading Cards, Apps, & more. However, what Game Pillars make Pokemon such a successful title? The video below seeks to explore that. 
 
 [<img src="https://i.ytimg.com/vi/5Ou0gvkJ_5s/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=5Ou0gvkJ_5s&t=3s&ab_channel=Cartroner)
@@ -132,7 +134,7 @@ Pokemon allows their players to compete with in-game AI, whether it be Pokemon, 
 
 ### Final Fantasy Series
 
-[<img src="https://i.ytimg.com/vi/pIyfWSrw_FQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=pIyfWSrw_FQ&t=1s&ab_channel=IGN)
+<img src="images/finalfantasy.png" alt="Plot" width="1000" height="400">
 
 **Game Pillar #1: Visuals**
 
@@ -147,6 +149,8 @@ Final Fantasy has a turn-based combat system, a perfect model for RPG's. Players
 **Game Pillar #3: Story**
 
 Final Fantasy has an immersive story that players can dive into. Spanning multiple titles, with hundreds of characters, players can investigate and develop characters story lines. This adds a level of immersion that is essential for Game Pillars. Players are able to establish emotional connections, impacting them even after the game has been exited. 
+
+[<img src="https://i.ytimg.com/vi/pIyfWSrw_FQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=pIyfWSrw_FQ&t=1s&ab_channel=IGN)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
