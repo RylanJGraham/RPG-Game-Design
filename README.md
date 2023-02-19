@@ -217,15 +217,35 @@ Final Fantasy has an immersive story that players can dive into. Spanning multip
 
 ***Steps to Follow for Our RPG Pillars***
 
-**1. Agreeance & Focus**
 
-*Team in-sync with market, consumers, and one another*
+**Step 1. 3 Stages of Agreeance**
 
-2. 
+In order to begin the process of selecting game pillars for the RPG title, team members must complete these three requirements before moving onto further steps.
 
+<img src="images/3stages.png" alt="Plot" width="700" height="400">
+
+1. Competitive Analysis
+
+*Team should analyze the genre´s market and look for trends in game pillar types.*
+
+2. Available Pillars
+
+*Team should recognize their creative or production capabilities. For example: a music based game is poor if the team lacks musical capabilities. *
+
+3. Team Cohesion
+
+*All of team should agree on, or be in-line with main pillar choices. Important for all to be on the same page.*
+
+Once these requirements have been met, its time to move onto the next step. 
+
+
+**Step 2. Audience Recognition & Catering**
+
+<img src="images/audience.png" alt="Audience" width="800" height="400">
+
+Recognizing your target audience is essential for understanding the required game pillars. The target audience can give an indication to required pillars based on their characteristics. Example being a sports lover may be more lenient towards competetive game pillars, or customization elements. Additionally the age can indicate societal trends in interest.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
