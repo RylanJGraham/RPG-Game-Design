@@ -39,7 +39,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## What Are Game Pillars?
+## Introduction
 
 My name is Rylan Graham and I am a second year bachelors student in the Universitat Politecnica de Catalunya. This website is built for information regarding a lecture I delivered about RPG Game Design, or more specifically, the crucial Game Pillars for development. 
 
@@ -49,7 +49,7 @@ My name is Rylan Graham and I am a second year bachelors student in the Universi
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Built With
+### What Are Game Pillars?
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
@@ -67,12 +67,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Game Pillar Types
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -80,7 +80,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Game Pillar Industry Examples
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -103,7 +103,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Good Game Pillars
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -114,7 +114,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Bad Game Pillars
 
 - [x] Add Changelog
 - [x] Add back to top links
