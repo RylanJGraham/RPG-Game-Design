@@ -102,9 +102,16 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 *Players can fight one another, computer ai, or other in-game elements. 
 
-**Market Systems** 
+**RPG Pillar Reliance**
+To be a good RPG there is often a reliance on these three pillars existing (even in a small manner) together in harmony. These are all good starting points for our own RPG’s, only we need to specify. 
 
-*Market Systems are a form of transaction or trading within the game. Players can trade in-game elements with one another and there is a value system*
+<img src="images/plot.png" alt="Plot" width="1000" height="400">
+
+*Choices: Decisions player makes (combat, movement, items, etc)*
+
+*Elements: Items, Abilities, Enemies, etc*
+
+*Plot: Story’s flow and overall thematic Elements*
 
 
 ## Game Pillar Industry Examples
@@ -153,16 +160,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ## Bad Game Pillars
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
