@@ -87,7 +87,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-## Game Pillar Examples
+## Game Pillar Industry Examples
 
 ### Pokemon
 
@@ -103,6 +103,23 @@ Pokemon allows their users to choose among several elements, whether it be their
 
 Pokemon allows their players to compete with in-game AI, whether it be Pokemon, trainers, or fellow players online. Players can enjoy competition and comparison with others. This is an essential factor, as we as human beings are based on comparison and competition, from a primative standpoint.  
 
+### Final Fantasy Series
+
+[<img src="https://i.ytimg.com/vi/pIyfWSrw_FQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=pIyfWSrw_FQ&t=1s&ab_channel=IGN)
+
+**Game Pillar #1: Visuals**
+
+Final Fantasy has visually stunning visuals as of late. Although less game-oriented or technical, this could be described as a Game Pillar as it adds to the players immersion within the game. Game Pillars are unique elements that keep the player involved, and a visually stunning world to explore is certainly a draw. 
+
+
+**Game Pillar #2: Combat**
+
+Final Fantasy has a turn-based combat system, a perfect model for RPG's. Players can partake in combat with unique movesets, items, and weaponry. Players are allowed to be creative in their move selection choices, and to be mentally challenged in the challenge, two crucial features of a succesful game pillar. 
+
+
+**Game Pillar #3: Story**
+
+Final Fantasy has an immersive story that players can dive into. Spanning multiple titles, with hundreds of characters, players can investigate and develop characters story lines. This adds a level of immersion that is essential for Game Pillars. Players are able to establish emotional connections, impacting them even after the game has been exited. 
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -122,8 +139,7 @@ Pokemon allows their players to compete with in-game AI, whether it be Pokemon, 
 
 
 
-<!-- USAGE EXAMPLES -->
-## Bad Game Pillars
+## Good Game Pillars
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -133,8 +149,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## What You Need to Know For Your Project
+## Bad Game Pillars
 
 - [x] Add Changelog
 - [x] Add back to top links
