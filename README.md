@@ -264,6 +264,35 @@ Fun games have:
 - Interest: Games elements are focused on players interest.
 - No Cheating: Games patterns can not be bypassed, player must learn and develop skills
 
+*Raf Costa's: A Theory of Fun*
+
+In his book Costa outlines the essentials for having a fun and addictive game. These are inherent things in human psychology that cause them to become interested and addicted. These range from concepts such as human need for competition, human necessity for mastering patterns, and more. Below are some examples of these characteristics and possibilities for Game Pillars: 
+
+<img src="images/6.png" alt="6" width="1000" height="400">
+
+-
+-
+
+**Step 4. Game Elements & Pillar Relevancy**
+
+Game elements (Items, Abilities, etc) must fit into the games theme and work with the set genre. For RPG’s this is quite simple as items are often collected, and fights and progression are solved by different type characteristics. If a Pillar is Combat it must not stray away from Exploration Pillar, etc. Below is a video describing this:
+
+[<img src="https://i.ytimg.com/vi/QS9CYuUOmU4/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=QS9CYuUOmU4&t=2s&ab_channel=DesignDoc)
+
+
+-
+-
+
+
+**Step 5. Guiding and Freeing the Player**
+
+<img src="images/Timeline.png" alt="Plot" width="1000" height="400">
+
+*How The Professionals Do It:*
+
+[<img src="https://i.ytimg.com/vi/dBmIkEvEBtA/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=dBmIkEvEBtA&ab_channel=GameMaker%27sToolkit)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
