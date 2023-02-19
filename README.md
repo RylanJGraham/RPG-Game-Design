@@ -124,6 +124,8 @@ To be a good RPG there is often a reliance on these three pillars existing (even
 
 Pokemon is a game franchise founded by Nintendo, Game Freak, and Creatures. It was created by Satoshi Tajiri in 1996. The franchise is one of the best selling RPG titles of all time, beginning as Pokemon Red & Blue, and since evolving to include several other titles spanning various consoles, Tv series, Movies, Trading Cards, Apps, & more. However, what Game Pillars make Pokemon such a successful title? The video below seeks to explore that. 
 
+**Video Below:**
+
 [<img src="https://i.ytimg.com/vi/5Ou0gvkJ_5s/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=5Ou0gvkJ_5s&t=3s&ab_channel=Cartroner)
 
 **Game Pillar #1: Choice**
@@ -152,6 +154,8 @@ Final Fantasy has a turn-based combat system, a perfect model for RPG's. Players
 
 Final Fantasy has an immersive story that players can dive into. Spanning multiple titles, with hundreds of characters, players can investigate and develop characters story lines. This adds a level of immersion that is essential for Game Pillars. Players are able to establish emotional connections, impacting them even after the game has been exited. 
 
+**Video Below:**
+
 [<img src="https://i.ytimg.com/vi/pIyfWSrw_FQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=pIyfWSrw_FQ&t=1s&ab_channel=IGN)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -161,6 +165,22 @@ Final Fantasy has an immersive story that players can dive into. Spanning multip
 
 <img src="images/GoodPillars.png" alt="Plot" width="700" height="400">
 
+**Reactive**
+
+*Game pillar is adaptable and can adapt to the player’s progress / skill / passion
+
+**Unique**
+
+*The game pillar is unique and involved elements that have not been seen or explored enough
+
+**Stand Alone**
+
+*Game Pillar can stand alone as a defining factor for the game. Does not rely on others
+
+**Synced**
+
+*The game pillar is in-sync with other elements, enabling good game flow
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -169,9 +189,24 @@ Final Fantasy has an immersive story that players can dive into. Spanning multip
 
 <img src="images/BadPillars.png" alt="Plot" width="700" height="400">
 
+**Boring**
+
+*The game pillar is boring or shows little room for creativity in both production & playing
+
+**Lack of Specificity**
+
+*Game pillar is not described accurately enough or is too broad. 
+
+**Overused**
+
+*Game pillar is being emulated from other successful RPG titles, no ‘’It’’ Factor
+
+**Strength**
+
+*The game pillar is not strong enough to stand on its own
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Conclusion
