@@ -120,7 +120,7 @@ To be a good RPG there is often a reliance on these three pillars existing (even
 
 ### Pokemon
 
-<img src="images/pokemoncover.png" alt="Plot" width="1000" height="400">
+<img src="images/pokemoncover.png" alt="Plot" width="800" height="400">
 
 Pokemon is a game franchise founded by Nintendo, Game Freak, and Creatures. It was created by Satoshi Tajiri in 1996. The franchise is one of the best selling RPG titles of all time, beginning as Pokemon Red & Blue, and since evolving to include several other titles spanning various consoles, Tv series, Movies, Trading Cards, Apps, & more. However, what Game Pillars make Pokemon such a successful title? The video below seeks to explore that. 
 
@@ -138,7 +138,7 @@ Pokemon allows their players to compete with in-game AI, whether it be Pokemon, 
 
 ### Final Fantasy Series
 
-<img src="images/finalfantasy.png" alt="Plot" width="1000" height="400">
+<img src="images/finalfantasy.png" alt="Plot" width="800" height="400">
 
 **Game Pillar #1: Visuals**
 
