@@ -37,9 +37,11 @@
 </details>
 
 <!-- CONTACT -->
-## Google Slides Presentation
+## Lecture Information
 
-Rylan James Graham - [Portfolio](https://rylanjgraham.com)
+Slides Presentation with Media: [Link](https://docs.google.com/presentation/d/1KGYc0Du5xmiiQnFxYBg2Zi05I5WyUEsoRJjs1ZFF4WI/edit?usp=sharing)
+
+By: Rylan James Graham - [Portfolio](https://rylanjgraham.com)
 
 Project Link: [https://github.com/RylanJGraham/RPG-Game-Design](https://github.com/RylanJGraham/RPG-Game-Design)
 
