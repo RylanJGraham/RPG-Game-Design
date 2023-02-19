@@ -264,6 +264,11 @@ Fun games have:
 - Interest: Games elements are focused on players interest.
 - No Cheating: Games patterns can not be bypassed, player must learn and develop skills
 
+*Raf Costa's: A Theory of Fun*
+
+<img src="images/6.png" alt="6" width="1000" height="400">
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
