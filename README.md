@@ -167,19 +167,19 @@ Final Fantasy has an immersive story that players can dive into. Spanning multip
 
 **Reactive**
 
-*Game pillar is adaptable and can adapt to the player’s progress / skill / passion
+*Game pillar is adaptable and can adapt to the player’s progress / skill / passion*
 
 **Unique**
 
-*The game pillar is unique and involved elements that have not been seen or explored enough
+*The game pillar is unique and involved elements that have not been seen or explored enough*
 
 **Stand Alone**
 
-*Game Pillar can stand alone as a defining factor for the game. Does not rely on others
+*Game Pillar can stand alone as a defining factor for the game. Does not rely on others*
 
 **Synced**
 
-*The game pillar is in-sync with other elements, enabling good game flow
+*The game pillar is in-sync with other elements, enabling good game flow*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -191,36 +191,38 @@ Final Fantasy has an immersive story that players can dive into. Spanning multip
 
 **Boring**
 
-*The game pillar is boring or shows little room for creativity in both production & playing
+*The game pillar is boring or shows little room for creativity in both production & playing*
 
 **Lack of Specificity**
 
-*Game pillar is not described accurately enough or is too broad. 
+*Game pillar is not described accurately enough or is too broad.*
 
 **Overused**
 
-*Game pillar is being emulated from other successful RPG titles, no ‘’It’’ Factor
+*Game pillar is being emulated from other successful RPG titles, no ‘’It’’ Factor*
 
 **Strength**
 
-*The game pillar is not strong enough to stand on its own
+*The game pillar is not strong enough to stand on its own*
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-## Conclusion
+## Your RPG
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+**How can we harness the capabilities of Game Pillars to our advantage?**
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+“When you don’t have any creative direction, or even worse, if your team does not agree on a single concept or direction, it becomes a mess. Everyone just starts making stuff on their own and following their own direction.” -Antoine Sarrazin [Source](https://ch0m5.github.io/Game-Design-Pillars/)
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+***Steps to Follow for Our RPG Pillars***
+
+**1. Agreeance & Focus**
+
+*Team in-sync with market, consumers, and one another*
+
+2. 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
