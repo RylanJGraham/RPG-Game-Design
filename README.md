@@ -19,24 +19,20 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#What Are Game Pillars?">What Are Game Pillars?</a>
+      <a href="#Introduction">Introduction</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#What Are Game Pillars?">What Are Game Pillars?</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#Game Pillar Types">Game Pillar Types</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Game Pillar Examples in Industry">Game Pillar Examples in Industry</a></li>
+    <li><a href="#Good Game Pillars">Good Game Pillars</a></li>
+    <li><a href="#Bad Game Pillars">Bad Game Pillars</a></li>
+    <li><a href="#Game Pillars for Your Project">Game Pillars for Your Project</a></li>
+    <li><a href="#Summary">Summary</a></li>
+    <li><a href="#References">References</a></li>
   </ol>
 </details>
 
