@@ -54,28 +54,23 @@ CITM UPC Bachelors Student: [UPC CITM](https://www.citm.upc.edu/esp/estudis/grau
 
 My name is Rylan Graham and I am a second year bachelors student in the Universitat Politecnica de Catalunya. This website is built for information regarding a lecture I delivered about RPG Game Design, or more specifically, the crucial Game Pillars for development. 
 
-“What I mean by this term is think about the 3 – 5 main elements/emotions your game is trying to explore and make the players feel” - Max Pears. [Source](https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### What Are Game Pillars?
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+“What I mean by this term is think about the 3 – 5 main elements/emotions your game is trying to explore and make the players feel” - Max Pears. [Source](https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game)
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+**Game Pillars in Essence**
+
+*A game pillar is a fundamental concept that your game will utilize to function
+
+*Game pillars can vary from mechanics, aesthetics, story, and technology Source
+
+*Game pillars should relate to one another, and should not just be stand alone concepts. 
+
+*Aim for 3-8 concepts for game pillars, however only 3 are essential. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Game Pillar Types
