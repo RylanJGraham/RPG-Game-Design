@@ -39,9 +39,11 @@
 <!-- CONTACT -->
 ## Google Slides Presentation
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Rylan James Graham - [Portfolio](https://rylanjgraham.com)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/RylanJGraham/RPG-Game-Design](https://github.com/RylanJGraham/RPG-Game-Design)
+
+CITM UPC Bachelors Student: [UPC CITM]([https://github.com/RylanJGraham/RPG-Game-Design](https://www.citm.upc.edu/esp/estudis/grau-multimedia/?utm_source=5745_multi&utm_medium=cpc&utm_campaign=multi_grau_esp&gclid=Cj0KCQiArsefBhCbARIsAP98hXT3ORoNB4hguls4CuEXaGSo6JDTlwTmVAv4ncjZ5ZNy8Wc95GxO_jMaAiZjEALw_wcB)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
