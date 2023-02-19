@@ -252,7 +252,7 @@ Recognizing your target audience is essential for understanding the required gam
 
 **Step 3. Ensuring Fun Game Pillars**
 
-[<img src="https://i.ytimg.com/vi/pIyfWSrw_FQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=lkatr_a1OMQ&ab_channel=MyGameDevPal)
+[<img src="https://i.ytimg.com/vi/lkatr_a1OMQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=lkatr_a1OMQ&ab_channel=MyGameDevPal)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
