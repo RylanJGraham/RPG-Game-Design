@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RylanJGraham/RPG-Game-Design">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/fundamentals.png" alt="Logo" width="1000" height="400">
   </a>
 
   
@@ -44,8 +44,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## What Are Game Pillars?
-
-<img src="images/fundamentals.png" alt="Logo" width="1000" height="400">
 
 My name is Rylan Graham and I am a second year bachelors student in the Universitat Politecnica de Catalunya. This website is built for information regarding a lecture I delivered about RPG Game Design, or more specifically, the crucial Game Pillars for development. 
 
