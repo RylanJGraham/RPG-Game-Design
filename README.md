@@ -258,6 +258,12 @@ Recognizing your target audience is essential for understanding the required gam
 
 <img src="images/FunGames.png" alt="Games" width="1000" height="400">
 
+Fun games have: 
+
+- Patterns: Pattern for the player to learn and improve, with gradual mechanics added
+- Interest: Games elements are focused on players interest.
+- No Cheating: Games patterns can not be bypassed, player must learn and develop skills
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
