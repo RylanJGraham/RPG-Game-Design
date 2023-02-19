@@ -78,6 +78,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 **Common RPG Game Pillars**
 - [x] Market Systems
+
+
 *Market Systems are a form of transaction or trading within the game. Players can trade in-game elements with one another and there is a value system*
 
 - [x] Inventory 
