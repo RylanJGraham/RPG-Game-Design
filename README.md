@@ -62,7 +62,7 @@ My name is Rylan Graham and I am a second year bachelors student in the Universi
 
 **Game Pillars in Essence**
 
-<img src="images/Graphic1.png" alt="Plot" width="400" height="400">
+<img src="docs/images/Graphic1.png" alt="Plot" width="400" height="400">
 
 *A game pillar is a fundamental concept that your game will utilize to function
 
@@ -107,7 +107,7 @@ My name is Rylan Graham and I am a second year bachelors student in the Universi
 
 To be a good RPG there is often a reliance on these three pillars existing (even in a small manner) together in harmony. These are all good starting points for our own RPG’s, only we need to specify. 
 
-<img src="images/plot.png" alt="Plot" width="1000" height="400">
+<img src="docs/images/plot.png" alt="Plot" width="1000" height="400">
 
 *Choices: Decisions player makes (combat, movement, items, etc)*
 
@@ -120,7 +120,7 @@ To be a good RPG there is often a reliance on these three pillars existing (even
 
 ### Pokemon
 
-<img src="images/pokemoncover.png" alt="Plot" width="800" height="400">
+<img src="docs/images/pokemoncover.png" alt="Plot" width="800" height="400">
 
 Pokemon is a game franchise founded by Nintendo, Game Freak, and Creatures. It was created by Satoshi Tajiri in 1996. The franchise is one of the best selling RPG titles of all time, beginning as Pokemon Red & Blue, and since evolving to include several other titles spanning various consoles, Tv series, Movies, Trading Cards, Apps, & more. However, what Game Pillars make Pokemon such a successful title? The video below seeks to explore that. 
 
@@ -138,7 +138,7 @@ Pokemon allows their players to compete with in-game AI, whether it be Pokemon, 
 
 ### Final Fantasy Series
 
-<img src="images/finalfantasy.png" alt="Plot" width="800" height="400">
+<img src="docs/images/finalfantasy.png" alt="Plot" width="800" height="400">
 
 **Game Pillar #1: Visuals**
 
@@ -163,7 +163,7 @@ Final Fantasy has an immersive story that players can dive into. Spanning multip
 
 ## Good Game Pillars
 
-<img src="images/GoodPillars.png" alt="Plot" width="700" height="400">
+<img src="docs/images/GoodPillars.png" alt="Plot" width="700" height="400">
 
 **Reactive**
 
@@ -187,7 +187,7 @@ Final Fantasy has an immersive story that players can dive into. Spanning multip
 ## Bad Game Pillars
 
 
-<img src="images/BadPillars.png" alt="Plot" width="700" height="400">
+<img src="docs/images/BadPillars.png" alt="Plot" width="700" height="400">
 
 **Boring**
 
@@ -222,7 +222,7 @@ Final Fantasy has an immersive story that players can dive into. Spanning multip
 
 In order to begin the process of selecting game pillars for the RPG title, team members must complete these three requirements before moving onto further steps.
 
-<img src="images/3stages.png" alt="Plot" width="700" height="400">
+<img src="docs/images/3stages.png" alt="Plot" width="700" height="400">
 
 1. Competitive Analysis
 
@@ -244,7 +244,7 @@ Once these requirements have been met, its time to move onto the next step.
 
 **Step 2. Audience Recognition & Catering**
 
-<img src="images/audience.png" alt="Audience" width="800" height="400">
+<img src="docs/images/audience.png" alt="Audience" width="800" height="400">
 
 Recognizing your target audience is essential for understanding the required game pillars. The target audience can give an indication to required pillars based on their characteristics. Example being a sports lover may be more lenient towards competetive game pillars, or customization elements. Additionally the age can indicate societal trends in interest.  
 
@@ -256,7 +256,7 @@ Recognizing your target audience is essential for understanding the required gam
 
 [<img src="https://i.ytimg.com/vi/lkatr_a1OMQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=lkatr_a1OMQ&ab_channel=MyGameDevPal)
 
-<img src="images/FunGames.png" alt="Games" width="1000" height="400">
+<img src="docs/images/FunGames.png" alt="Games" width="1000" height="400">
 
 Fun games have: 
 
@@ -268,7 +268,7 @@ Fun games have:
 
 In his book Costa outlines the essentials for having a fun and addictive game. These are inherent things in human psychology that cause them to become interested and addicted. These range from concepts such as human need for competition, human necessity for mastering patterns, and more. Below are some examples of these characteristics and possibilities for Game Pillars: 
 
-<img src="images/6.png" alt="6" width="1000" height="400">
+<img src="docs/images/6.png" alt="6" width="1000" height="400">
 
 -
 -
@@ -286,7 +286,7 @@ Game elements (Items, Abilities, etc) must fit into the games theme and work wit
 
 **Step 5. Guiding and Freeing the Player**
 
-<img src="images/Timeline.png" alt="Plot" width="1000" height="400">
+<img src="docs/images/Timeline.png" alt="Plot" width="1000" height="400">
 
 *How The Professionals Do It:*
 
@@ -297,7 +297,7 @@ Game elements (Items, Abilities, etc) must fit into the games theme and work wit
 
 **How Your Project Flow Should Be**
 
-<img src="images/projflow.png" alt="flow" width="1000" height="400">
+<img src="docs/images/projflow.png" alt="flow" width="1000" height="400">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -309,17 +309,31 @@ Game elements (Items, Abilities, etc) must fit into the games theme and work wit
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 *Links*
-https://www.acagamic.com/blog/how-to-design-pillars-for-your-core-game-ux
+https://www.youtube.com/watch?v=5Ou0gvkJ_5s&t=1s
+https://www.youtube.com/watch?v=pIyfWSrw_FQ
+https://www.youtube.com/watch?v=lkatr_a1OMQ
+https://www.youtube.com/watch?v=K0M1PuQaE8s&t=2s
+https://www.youtube.com/watch?v=QS9CYuUOmU4
+https://www.youtube.com/watch?v=dBmIkEvEBtA 
+
+*Articles*
 https://orioldedios.github.io/Game-Design-Pillars/
 https://ch0m5.github.io/Game-Design-Pillars/
-https://www.sciencedirect.com/science/article/pii/B9780123694966000041
+https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game
+https://en.wikipedia.org/wiki/Pokémon
+https://en.wikipedia.org/wiki/Final_Fantasy 
 
+*Slides Presentation*
+https://docs.google.com/presentation/d/1KGYc0Du5xmiiQnFxYBg2Zi05I5WyUEsoRJjs1ZFF4WI/edit?usp=sharing
+
+*Jeopardy Game*
+game-pillars-game-design-jeopardy.html
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Acknowledgments ##
 
 * [GitHub Pages](https://pages.github.com)
 
