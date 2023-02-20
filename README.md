@@ -270,6 +270,10 @@ In his book Costa outlines the essentials for having a fun and addictive game. T
 
 <img src="docs/images/6.png" alt="6" width="1000" height="400">
 
+*Below is a video describing the human psychology behind addiction, and how we as video game designers can capitalize on it:*
+
+[<img src="https://i.ytimg.com/vi/K0M1PuQaE8s/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=K0M1PuQaE8s)
+
 -
 -
 
