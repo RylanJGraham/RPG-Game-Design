@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RylanJGraham/RPG-Game-Design">
-    <img src="images/fundamentals.png" alt="Logo" width="1000" height="400">
+    <img src="docs/images/fundamentals.png" alt="Logo" width="1000" height="400">
   </a>
 
   
