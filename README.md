@@ -299,9 +299,17 @@ Game elements (Items, Abilities, etc) must fit into the games theme and work wit
 -
 -
 
-**How Your Project Flow Should Be**
+##Summary##
+
+If all steps are followed your game design flow involving pillars should look like this:
 
 <img src="docs/images/projflow.png" alt="flow" width="1000" height="400">
+
+*Each step advancing the pillars substance in the game design*
+
+#In-Summary#
+<img src="docs/images/projflow.png" alt="flow" width="1000" height="400">
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
