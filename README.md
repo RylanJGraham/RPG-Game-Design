@@ -20,9 +20,6 @@
   <ol>
     <li>
       <a href="#Introduction">Introduction</a>
-      <ul>
-        <li><a href="#What Are Game Pillars?">What Are Game Pillars?</a></li>
-      </ul>
     </li>
     <li>
       <a href="#Game Pillar Types">Game Pillar Types</a>
