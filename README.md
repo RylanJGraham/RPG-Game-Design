@@ -27,10 +27,10 @@
     <li>
       <a href="#Game Pillar Types">Game Pillar Types</a>
     </li>
-    <li><a href="#Game Pillar Examples in Industry">Game Pillar Examples in Industry</a></li>
+    <li><a href="#Game Pillar Industry Examples">Game Pillar Industry Examples</a></li>
     <li><a href="#Good Game Pillars">Good Game Pillars</a></li>
     <li><a href="#Bad Game Pillars">Bad Game Pillars</a></li>
-    <li><a href="#Game Pillars for Your Project">Game Pillars for Your Project</a></li>
+    <li><a href="#Your RPG">Your RPG</a></li>
     <li><a href="#Summary">Summary</a></li>
     <li><a href="#References">References</a></li>
   </ol>
