@@ -307,7 +307,8 @@ If all steps are followed your game design flow involving pillars should look li
 
 *Each step advancing the pillars substance in the game design*
 
-# In-Summary
+### Key Concepts
+
 <img src="docs/images/summ.png" alt="flow" width="1000" height="400">
 
 
